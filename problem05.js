@@ -1,4 +1,4 @@
-/*function signature/sample */
+
 function calculateWatchTime( times ) {
     
     let totalTime =0;

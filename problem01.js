@@ -1,4 +1,4 @@
-/*function signature/sample */
+
 
 function cashOut( money ) {
 

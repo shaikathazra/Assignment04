@@ -1,4 +1,4 @@
-/*function signature/sample */
+
 function electionResult( votes ) {
     
     if (!Array.isArray(votes)) {

@@ -1,4 +1,4 @@
-/*function signature/sample */
+
 function validEmail( email ) {
 
     if (typeof email == "string") {
