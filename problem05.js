@@ -1,7 +1,7 @@
 /*function signature/sample */
 function calculateWatchTime( times ) {
     
-    let totalTime =0
+    let totalTime =0;
     for(let i of times){
         if( typeof i !=="number"){
             return "Invalid";
